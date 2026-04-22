@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nasir Bhatti
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=nasirbhatti14&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
@@ -21,9 +21,9 @@ I am a Computer Science student from Pakistan passionate about programming, prob
 
 ## 📊 GitHub Stats
 
-![Nasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Nasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasirbhatt14&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasirbhatti14&layout=compact&theme=tokyonight)
 
 ---
 
@@ -45,7 +45,7 @@ I am a Computer Science student from Pakistan passionate about programming, prob
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/nasirbhatti14 
-- Email: your-email@example.com  
+- Email: nasirbhatti14119918a@gmail.com  
 
 ---
 
