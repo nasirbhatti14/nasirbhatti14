@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Nasir Bhatti
 
-![Profile Views](https://komarev.com/ghpvc/?username=nasirbhatti14&label=Profile%20views&color=0e75b6&style=flat)
-
 ---
 
 ## 🚀 About Me
@@ -23,14 +21,6 @@ I am a Software Engineer from Pakistan passionate about programming, problem-sol
 - Django backend development  
 - Data Structures & Algorithms  
 - Building real-world projects  
-
----
-
-## 🎯 Goals
-- Become a skilled full-stack developer  
-- Contribute to open-source projects  
-- Build impactful applications  
-- Strengthen problem-solving skills  
 
 ---
 
