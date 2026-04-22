@@ -44,7 +44,7 @@ I am a Computer Science student from Pakistan passionate about programming, prob
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/YOUR_USERNAME  
+- GitHub: https://github.com/nasirbhatti14 
 - Email: your-email@example.com  
 
 ---
