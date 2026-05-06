@@ -25,9 +25,9 @@ I am a Software Engineer from Pakistan passionate about programming, problem-sol
 ---
 
 ## 📫 Connect With Me
+- Linkedin: https://www.linkedin.com/in/nasir-iqbal-13b41b407
 - GitHub: https://github.com/nasirbhatti14 
 - Email: nasir.bhatti.dev@gmail.com
-- Linkedin: https://www.linkedin.com/in/nasir-iqbal-13b41b407
 
 
 ---
