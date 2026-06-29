@@ -2,13 +2,13 @@
 <h3 align="center">Software Engineering Student | Python & MySQL Developer | AI & ML Enthusiast</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/nasir-iqbal-se">
+  <a href="https://www.linkedin.com/in/nasir-iqbal-se">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nasir.bhatti.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nasirbhatti14&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
@@ -77,7 +77,7 @@ I'm a **Software Engineering student** focused on building practical, real-world
 I'm open to **internships**, **junior developer roles**, and **freelance collaborations** in Python, Data, or AI/ML projects.
 
 <p align="center">
-  <a href="www.linkedin.com/in/nasir-iqbal-se">
+  <a href="https://www.linkedin.com/in/nasir-iqbal-se">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
